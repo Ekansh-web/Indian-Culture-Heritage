@@ -32,10 +32,10 @@ body{
     font-size: 16px;
     border: 1px solid  rgb(255,165,0,1);
     color:  rgb(255,165,0,1);
-    border-radius: 50px;
+    border-radius: 20px;
     float: right; 
     background-color: #FFFFFF;
-    padding: 1% 4%;
+    padding: 1% 2%;
 }
     .signupbtn:hover{
         background-color:  rgb(255,165,0,1);
@@ -45,10 +45,10 @@ body{
 .signinbtn{
     font-size: 16px;
     border: none;
-    border-radius: 50px;
+    border-radius: 20px;
     float: right; 
     background-color: #FFFFFF;
-    padding: 1% 4%;
+    padding: 1% 2%;
 }
 
 .navbuttons{
@@ -58,6 +58,7 @@ body{
     margin : 1% 1.5% 1.5% 1.5%;
     text-decoration: none;
 }
+
 
 .container1{
     padding:20px;
@@ -125,12 +126,6 @@ h2{
     float:left; width:20%;
 }
 
-.ratingsstyle{
-    float: left;
-    width:33%;
-    border-right: 2px solid #EEEFF2; 
-    margin-right: 5%;
-}
 
 .features2contlist{
     list-style-image: url('img/Vector1.png');
@@ -174,16 +169,7 @@ h2{
     margin-right: 13%;
 }
 
-.footerlist{
-    margin-bottom: 10%;
-    color: #4F5665;
-    font-size: 16px;
-}
-.footerheadlist{
-    margin-bottom: 20%;
-    color:#0B132A;
-    font-size: 18px;
-}
+
 
 .caroblock{
     display: inline-block;
