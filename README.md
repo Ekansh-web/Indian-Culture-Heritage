@@ -28,14 +28,14 @@ For better designing navigation in top and the carousel are added for better use
 
 **Instructions:**
 
-=> Project contains two HTML pages - index.html(main page) and heritage.html
+- Project contains two HTML pages - index.html(main page) and heritage.html
 
-=> Project contains css file (style.css) for styling.
+- Project contains css file (style.css) for styling.
 
-=> Images folder as (img1) where html pages uses those.
+- Images folder as (img1) where html pages uses those.
 
-=> HTML page contains implementation of owl carousel for carousel for using that internet is to be connect and link is provided at top of HTML page.
+- HTML page contains implementation of owl carousel for carousel for using that internet is to be connect and link is provided at top of HTML page.
 
-=> OWL carousel - jquery is used for carousel in main page
+- OWL carousel - jquery is used for carousel in main page
 
 
