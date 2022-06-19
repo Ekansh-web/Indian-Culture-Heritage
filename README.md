@@ -15,20 +15,27 @@ Website contains -:
 
 **Home Page:** Home page contains the variety of Indian Culture. This page is showing that how our culture made the growth in different areas with navigation provided so that the user can easily understand.
 
-**Heritage Page:** It contains the examples of Heritage in India and contains all about the history of things which were built in India and now they are so precious to the Indians.
 
 ![](usedinreadme1.png)
 
+**Heritage Page:** It contains the examples of Heritage in India and contains all about the history of things which were built in India and now they are so precious to the Indians.
+
+
 ![](usedinreadme2.png)
 
-*Extra Features:*
+**Extra Features:**
 For better designing navigation in top and the carousel are added for better user interaction and carousel can work with both keyboard and mouse.
 
-*Instructions:*
+**Instructions:**
+
 => Project contains two HTML pages - index.html(main page) and heritage.html
+
 => Project contains css file (style.css) for styling.
+
 => Images folder as (img1) where html pages uses those.
+
 => HTML page contains implementation of owl carousel for carousel for using that internet is to be connect and link is provided at top of HTML page.
+
 => OWL carousel - jquery is used for carousel in main page
 
 
